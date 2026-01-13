@@ -1,0 +1,29 @@
+kanuma homepage using markdown
+title: Kanuma Homepage
+description: Welcome to the official homepage of Kanuma. Discover my work, writings, and how to connect.
+author: Kanuma
+theme: modern
+homepage:
+    sections:
+        - title: About Me
+        content: |
+            Hello! I'm Kanuma, a creative coder and blogger. I enjoy building web applications and writing about technology trends.
+    
+        - title: Work
+        content: |
+            Here are some of my notable works:
+            - Work X: An e-commerce platform for handmade goods.
+            - Work Y: A real-time chat application.
+            - Work Z: A personal finance management tool.
+    
+        - title: Writings
+        content: |
+            Explore my recent articles:
+            - "Introduction to JavaScript Frameworks"
+            - "How to Boost Productivity with Time Management"
+            - "A Beginner's Guide to Cloud Computing"
+    
+        - title: Connect
+        content: |
+            I'd love to hear from you! You can contact me at
+            
