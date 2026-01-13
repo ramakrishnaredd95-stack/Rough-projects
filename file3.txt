@@ -1,0 +1,26 @@
+Bogi festival
+The Bogi festival is a traditional celebration observed in parts of South India, particularly in Tamil Nadu and Andhra Pradesh. It marks the beginning of the harvest season and is celebrated on the first day of the Tamil month of Thai, which usually falls on January 13th or 14th.
+Significance
+Bogi festival is dedicated to Lord Indra, the god of rain and thunderstorms, and is considered an auspicious day for farmers as it signifies the end of the winter season and the arrival of longer days. The festival is also associated with the worship of fire, symbolizing the destruction of old and negative energies to make way for new beginnings.
+Celebrations
+The celebrations of Bogi festival typically involve the following customs and rituals:
+1. Bonfire: People light bonfires using old and unwanted items such as wooden furniture, clothes, and agricultural waste. This act symbolizes the burning away of past negativities and the welcoming of new opportunities.
+2. Cleaning and Decorating: Homes are cleaned thoroughly, and colorful rangoli (decorative patterns) are drawn at the entrance to welcome prosperity and good fortune.
+3. Special Meals: Traditional dishes are prepared using freshly harvested crops, and families come together to share festive meals.
+4. Worship: Devotees offer prayers to Lord Indra and other deities, seeking
+blessings for a bountiful harvest and prosperity in the coming year.
+Cultural Importance
+The Bogi festival holds significant cultural importance as it fosters community bonding and reinforces agricultural traditions. It is a time for families and communities to come together, celebrate their heritage, and express gratitude for the blessings of nature. The festival also serves as a reminder of the cyclical nature of life and the importance of renewal and transformation.
+Overall, the Bogi festival is a vibrant and joyous occasion that reflects  cultural tapestry of South India, celebrating the harmony between humans and nature while ushering in a season of hope and abundance.
+the rich 
+
+  sankarnti homepage:
+  title: Sankarnti Homepage
+  description: Welcome to the official homepage of Sankarnti. Explore projects, blogs, and more
+
+    keywords:
+        - Sankarnti
+        - Homepage
+        - Projects
+        - Blogs
+        - Portfoliog

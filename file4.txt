@@ -1,0 +1,6 @@
+This is file from main branch
+
+Iam trying to create merge conflict
+This is file form sankarnti
+
+Iam trying to make merge conflicts from sankarnti
