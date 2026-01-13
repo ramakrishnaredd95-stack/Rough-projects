@@ -1,0 +1,11 @@
+  sankarnti homepage:
+  title: Sankarnti Homepage
+  description: Welcome to the official homepage of Sankarnti. Explore projects, blogs, and more
+
+    keywords:
+        - Sankarnti
+        - Homepage
+        - Projects
+        - Blogs
+        - Portfolio
+        
