@@ -1,0 +1,28 @@
+prepare sankarnti homepage using markdown
+title: Sankarnti Homepage
+description: Welcome to the official homepage of Sankarnti. Explore projects, blogs, and more.
+author: Sankarnti
+theme: minimal
+homepage:
+  sections:
+    - title: About Me
+      content: |
+        Hi! I'm Sankarnti, a passionate developer and tech enthusiast. I love creating innovative solutions and sharing knowledge with the community.
+
+    - title: Projects
+      content: |
+        Here are some of my recent projects:
+        - Project A: A web application for managing tasks.
+        - Project B: An open-source library for data visualization.
+        - Project C: A mobile app for fitness tracking.
+
+    - title: Blog
+      content: |
+        Check out my latest blog posts:
+        - "Getting Started with Python"
+        - "10 Tips for Effective Remote Work"
+        - "Understanding Machine Learning Basics"
+
+    - title: Contact
+      content: |
+        Feel free to reach out to me via email at
